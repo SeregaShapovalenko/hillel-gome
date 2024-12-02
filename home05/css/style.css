@@ -46,6 +46,7 @@
     font-weight: bold;
     border: none;
     margin-left: 370px;
+    cursor: pointer;
 }
 .login img {
     display: inline-block;
